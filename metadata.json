@@ -1,0 +1,6 @@
+{
+  "name": "Department Expense Tracker",
+  "description": "Internal web application for garment manufacturing department to manage monthly budgets and track DPR/PR expenses across multiple factories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
